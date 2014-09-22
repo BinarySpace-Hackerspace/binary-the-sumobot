@@ -3,7 +3,15 @@ Binary the SumoBot
 
 All related files for Binary the SumoBot
 
-Hardware:
+<b>Software</b>:
+
+Various code available from some of the BinarySpace members
+
+Sonar:
+
+Library: http://playground.arduino.cc/Code/NewPing
+
+<b>Hardware</b>:
 
 If you just want to build one then want the following files:
 
